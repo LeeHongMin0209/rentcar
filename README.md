@@ -1,20 +1,20 @@
 # RendCar
 
 ### 주요기능
-* 회원가입/로그인
-* 차량 예약
-* 예약 확인
+* **회원가입/로그인**
+* **차량 예약**
+* **예약 확인**
 
 ### Skill
 
-* Java
-* JavaScript
-* MySQL
+* **Java**
+* **JavaScript**
+* **MySQL**
 
 ### DB
-* Member
-* RentCar
-* CarReserve
+* **Member**
+* **RentCar**
+* **CarReserve**
 
 
 ***
