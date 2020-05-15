@@ -29,18 +29,17 @@
 
 ***
 ## 로그인 화면
-
+<br/>
 ![로그인](https://user-images.githubusercontent.com/64480971/82082746-850b9600-9723-11ea-82a7-44a3ff4f1f25.gif)
 
 ***
 ## 차량 예약
-
+<br/>
 ![차량 예약](https://user-images.githubusercontent.com/64480971/82083180-3d393e80-9724-11ea-8163-b338b1c520e6.gif)
 
 
 ***
 
 ## 예약 확인
-
-
+<br/>
 <img width="806" alt="예약확인" src="https://user-images.githubusercontent.com/64480971/82083417-aa4cd400-9724-11ea-81d9-1ec2ce839618.PNG">
